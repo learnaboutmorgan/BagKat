@@ -8,7 +8,6 @@
         </div>
         <div class="button-lines">
         <button class="button" @click="$emit('delete')">DELETE</button>
-        <button class="button" @click="reverse()">REVERSE</button>
         <button  class="button" v-if="!editing" @click="edit()">EDIT</button>
         <template v-else>
             <button  class="button" @click="save()">SAVE</button>
