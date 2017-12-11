@@ -39,6 +39,7 @@
 .outter-todo-card {
   width: 100%;
   height: 250px;
+ border-color:transparent;
   background: #fcfcfc;
   box-shadow: 0px 7.5px 15px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
@@ -50,7 +51,7 @@
   box-sizing: border-box;
 
   background: #fcfcfc;
-
+border-color:transparent;
   border-radius: 4px;
   padding: 15px;
   margin: 0px;
