@@ -82,7 +82,10 @@ let initialTodos = [
     text:
       "**Accented love**\n\n오늘은 엄마\n내일은 마미 \n내일 모레는 mom\n기분 좋을 뗀 mommy\n\nher voice so soothing\nextraño el sonido de mi mama\nsiempre pienso en ti y \n엄마가 보고싶다 \n\nwords off her tongue, so sweet and elegant\n근대 무서울 떼는 진짜 무섭다\nwarm and soft, they’ll taste like cotton candy\n엄마는 이런 씨는 좀 유치하다고 생각한다\n\nbut don’t let that trick you\nand don’t you trick her\nella sabrá lo que hiciste antes que tú \n\ntake advantage of her, the candy will melt\ndown to its core until she’s all out\n\nbut 아무리 나를 혼내도\n화가 안 풀었어도\n\n한마디 하는 엄마의 말씀\n밥은 먹었냐고 물어본다 \n\nthen you know you’re in the clear\nyou’ll have to sugarcoat here and there \nya, solamente tienes que esperar que el tiempo pasa\n여기 저기 애교 쫌 쓰고, 효도를 잘하고\nmommy always comes back\n"
   },
-
+  {
+    text:
+      "**Accented love**\n\nToday it is omma\ntomorrow it is mommy\nand the day after tomorrow it is mom\nand when I feel good, it is mommy\n\nher voice is so soothing\nI miss the sound of my mom\nI always think of you and \nI miss my mom\n\nWords off her tongue, so sweet and elegant\nbut when she’s scary, she’s really scary\nwarm and soft, they’ll taste like cotton candy\nmom thinks poems like these are a bit odd\n\nbut don’t let that trick you\nand don’t you trick her\nshe will know what you did before you\ntake advantage of her, the candy will melt\ndown to its core until she’s all out\n\nbut no matter how much I get in trouble\nno matter how mad she is\n\nshe asks me\nif I have eaten\nthen you know you’re in the clear\nyou’ll have to sugarcoat here and there\nalready, you only have to wait until the time passes\nhere and there, you’ll have to act cute and behave well \nmommy always comes back \n"
+  },
   {
     text:
       "**Happy Halloween**\n\nDress me up in Chinese dresses\nthe kind that you like\nrevealing yet reserved\nplaying coy to be your mistress\n\nlet the conditions meet your taste\nyour taste of Asia\nall in one bite\n\npin my hair up with chopsticks\nunwrap me from my bamboo sappy sad stories\nyou’re my hero, my savior\nmy samurai and ninja in disguise\n\nlet the conditions meet your taste\nyour taste of Asia\nall in one bite\n\nfast and furious, you demand quick and easies\nadult-like body yet child-like face and eyes\nsee what you want to do with my body \nyour fantasies are all I’m here for tonight\n\nlet the conditions meet your taste\nyour taste of Asia\nall in one bite\n\nserve my traditions on a plate\nyou want them gentrified like they’re Cajun fries\nbite size and digestible\neasy to consume\nremove the backbone to make them easier to chew\n\nlet the conditions meet your taste\nyour taste of Asia\nall in one bite\n"
@@ -90,6 +93,10 @@ let initialTodos = [
   {
     text:
       "**엄마 손**\n\n죄송한 마음에\n또는 미안한 마음에\n엄마를 보면 엄마의 손을 마사지를 해준다\n\n엄마 손이 약손\n또는 엄마 손이 제일 매운 손\n하지만 그 누구의 손 보다 제일 아끼는 손은\n내 엄마의 손이다\n\n일을 너무 많이 했는지\n요즘 엄마의 손이 차갑다 \n제일 따듯해 했던 우리 엄마의 손이 차갑다\n\n힘들었는지 없었던 하얀 머리카락도 보이고\n음식으로 마음을 표현했던  엄마가 이젠 음식 만들기의 재미없다고 한다\n\n난 시간이 흘러 지나가 몰랐다 \n"
+  },
+  {
+    text:
+      "**엄마 손**\n\nFeeling bad\nand feeling sorry\nwhen I see my mom, I give her hand a massage\n\nmom’s hand is medicine\nand mom’s hands are the most painful\nbut above anyone else’s hands\nI cherish my mom’s hands the most\nmaybe it’s because she’s been working so much\n\nthese days, my mom’s hands are cold\nthe same hands that used to be the warmest,\nmy mom’s hands are cold\n\nshe must have been tired\nwhite hair sprout where there weren’t any\nmy mom, a person who would express her feelings through her food\nstopped cooking because it doesn’t bring her joy anymore\n\nI didn’t realize this because I let time pass by\n"
   },
   {
     text:
