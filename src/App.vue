@@ -82,9 +82,7 @@ let initialTodos = [
     text:
       "**Accented love**\n\n오늘은 엄마\n내일은 마미 \n내일 모레는 mom\n기분 좋을 뗀 mommy\n\nher voice so soothing\nextraño el sonido de mi mama\nsiempre pienso en ti y \n엄마가 보고싶다 \n\nwords off her tongue, so sweet and elegant\n근대 무서울 떼는 진짜 무섭다\nwarm and soft, they’ll taste like cotton candy\n엄마는 이런 씨는 좀 유치하다고 생각한다\n\nbut don’t let that trick you\nand don’t you trick her\nella sabrá lo que hiciste antes que tú \n\ntake advantage of her, the candy will melt\ndown to its core until she’s all out\n\nbut 아무리 나를 혼내도\n화가 안 풀었어도\n\n한마디 하는 엄마의 말씀\n밥은 먹었냐고 물어본다 \n\nthen you know you’re in the clear\nyou’ll have to sugarcoat here and there \nya, solamente tienes que esperar que el tiempo pasa\n여기 저기 애교 쫌 쓰고, 효도를 잘하고\nmommy always comes back\n"
   },
-  {
-    text: "hello"
-  },
+
   {
     text:
       "**Happy Halloween**\n\nDress me up in Chinese dresses\nthe kind that you like\nrevealing yet reserved\nplaying coy to be your mistress\n\nlet the conditions meet your taste\nyour taste of Asia\nall in one bite\n\npin my hair up with chopsticks\nunwrap me from my bamboo sappy sad stories\nyou’re my hero, my savior\nmy samurai and ninja in disguise\n\nlet the conditions meet your taste\nyour taste of Asia\nall in one bite\n\nfast and furious, you demand quick and easies\nadult-like body yet child-like face and eyes\nsee what you want to do with my body \nyour fantasies are all I’m here for tonight\n\nlet the conditions meet your taste\nyour taste of Asia\nall in one bite\n\nserve my traditions on a plate\nyou want them gentrified like they’re Cajun fries\nbite size and digestible\neasy to consume\nremove the backbone to make them easier to chew\n\nlet the conditions meet your taste\nyour taste of Asia\nall in one bite\n"
