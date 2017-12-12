@@ -1,6 +1,8 @@
 <template>
+
   <div id="app">
-  
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=KS_C_5601"/>
+<META HTTP-EQUIV="Content-language" CONTENT="ko"/>
         <div class="card-grid">
            <div class="todo-card-wrap" >
             <div class="outter-todo-card" >
